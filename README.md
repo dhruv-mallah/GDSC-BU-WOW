@@ -3,7 +3,7 @@
 ## GDSC-BU-WOW
  ![MasterHead](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/Slide%2016_9%20-%203.png)
 
-[GDSC-BU](https://i.ytimg.com/vi/eKy2O-VdN30/maxresdefault.jpg)
+[GDSC-BU](https://www.bing.com/ck/a?!&&p=7efd71832ee0a7bdJmltdHM9MTcwOTU5NjgwMCZpZ3VpZD0wMjM4MjRlZi0zZjcyLTZjNDItMTZlZi0zNzc4M2VlMjZkOTEmaW5zaWQ9NTIwNw&ptn=3&ver=2&hsh=3&fclid=023824ef-3f72-6c42-16ef-37783ee26d91&psq=bundelkhand+university+gdsc&u=a1aHR0cHM6Ly9nZHNjMjNidW5kZWxraGFuZHVuaXZlcnNpdHkuZ2l0aHViLmlvLw&ntb=1)
 >>------------
 <h1 align="center">Hi 👋,Folks </h1>
 <h3 align="center">A passionate towards the tech learning and  development join the event of *GDSC WOW* </h3>
@@ -20,8 +20,8 @@
 
 - 💬 Ask us  about **Android , MEARN**
 
-- 📫 How to reach me **buofficial@gmail.com**
-
+- 📫 How to reach us
+- 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
